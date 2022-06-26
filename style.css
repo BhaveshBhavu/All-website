@@ -79,4 +79,13 @@ body {
      border: 1px solid rgba(0, 0, 0, 0.0);
    }
 
+
+   .nav{
+     border: 1px solid ;
+    }
+  
+   .men_box{
+     border:  1px solid;
+   }
+
  }
